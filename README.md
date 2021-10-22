@@ -2,7 +2,7 @@
 #### I am a web developer.
 I made website using html,css,js and php. Also i use make for website Wordpress,Laravel
 
-Skills: PHP / HTML / CSS / JS
+Skills: PHP / HTML / CSS / JS / CYBER SECURITY ETHICAL HACKING
 
 - 🔭 I’m currently working on Youtube 
 
